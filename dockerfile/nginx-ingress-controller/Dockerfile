@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/nginx-ingress-controller:1.11.4
+FROM gcr.io/google_containers/nginx-ingress-controller:0.8.3
 MAINTAINER wangxin

@@ -1,4 +1,4 @@
 # docker-image
-##image list
--gcr.io/google_containers/nginx-ingress-controller
--gcr.io/kubernetes-helm/tiller
+## image list
+    1.gcr.io/google_containers/nginx-ingress-controller
+    2.gcr.io/kubernetes-helm/tiller

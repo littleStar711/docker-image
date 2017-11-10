@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.2.2
+FROM gcr.io/kubernetes-helm/tiller:v2.7.0
 MAINTAINER wangxin

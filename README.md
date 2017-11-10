@@ -1,6 +1,7 @@
 # docker-image
 ## introduction
-    Some dockerfiles are stored in the `dockerfile` directory. This project is connected to [docker hub](https://hub.docker.com/u/wangxinsh/) in order to download Docker images which I cannot download directly.
+This project was created for several automated build projects in docker hub. Dockerfiles are stored in the `dockerfile` directory. 
+You can search and download images from the [docker hub registry](https://hub.docker.com/u/wangxinsh/). <br />
 ## image list
     1.gcr.io/google_containers/nginx-ingress-controller
     2.gcr.io/kubernetes-helm/tiller
